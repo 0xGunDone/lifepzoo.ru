@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Host: lifepzoo.ru
+Sitemap: https://lifepzoo.ru/sitemap.xml
