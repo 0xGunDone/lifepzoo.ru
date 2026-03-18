@@ -1,0 +1,8 @@
+{
+  "name": "lifepzoo-ru",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/generate-site.mjs"
+  }
+}

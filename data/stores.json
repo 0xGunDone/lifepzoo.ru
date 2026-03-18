@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "lenina",
+    "displayAddress": "Проспект Ленина, 14 к2",
+    "routeAddress": "Тверь, Проспект Ленина, 14 к2",
+    "coordinates": [56.8501778, 35.8310693],
+    "photos": ["1.webp"]
+  },
+  {
+    "slug": "gorkogo",
+    "displayAddress": "Улица Горького, 133",
+    "routeAddress": "Тверь, Улица Горького, 133",
+    "coordinates": [56.8701299, 35.8823981],
+    "photos": ["1.webp"]
+  },
+  {
+    "slug": "pobedi",
+    "displayAddress": "Проспект Победы, 22/15",
+    "routeAddress": "Тверь, Проспект Победы, 22/15",
+    "coordinates": [56.8439619, 35.9186544],
+    "photos": ["1.webp"]
+  },
+  {
+    "slug": "guseva",
+    "displayAddress": "Бульвар Гусева, 26",
+    "routeAddress": "Тверь, Бульвар Гусева, 26",
+    "coordinates": [56.8225847, 35.9011731],
+    "photos": ["1.webp"]
+  },
+  {
+    "slug": "hrustalnaya",
+    "displayAddress": "Хрустальная, 10",
+    "routeAddress": "Тверь, Хрустальная, 10",
+    "coordinates": [56.8888858, 35.904263],
+    "photos": ["1.webp"]
+  },
+  {
+    "slug": "osnabrukskaya",
+    "displayAddress": "Оснабрюкская, 39",
+    "routeAddress": "Тверь, Оснабрюкская, 39",
+    "coordinates": [56.8230909, 35.8748712],
+    "photos": ["1.webp"]
+  },
+  {
+    "slug": "esenina",
+    "displayAddress": "Батино, ул. Сергея Есенина, 1а (ТЦ «Есенин»)",
+    "routeAddress": "Тверь, улица Сергея Есенина, 1а",
+    "coordinates": [56.8944715, 35.8852835],
+    "photos": ["1.webp"]
+  },
+  {
+    "slug": "komsomolsky",
+    "displayAddress": "Комсомольский проспект, 8",
+    "routeAddress": "Тверь, Комсомольский проспект, 8",
+    "coordinates": [56.8693032, 35.9137176],
+    "photos": ["1.webp", "2.webp"]
+  }
+]
